@@ -1,0 +1,302 @@
+[
+  {
+    "key": "title_game",
+    "value": "The Legend of Eldric"
+  },
+  {
+    "key": "main_new_game",
+    "value": "New Game"
+  },
+  {
+    "key": "main_load_game",
+    "value": "Load Game"
+  },
+  {
+    "key": "main_ranking",
+    "value": "Ranking"
+  },
+  {
+    "key": "interact_chop_tree",
+    "value": "Press F to chop"
+  },
+  {
+    "key": "interact_pick_ore",
+    "value": "Press G to pick"
+  },
+  {
+    "key": "interact_merchant_npc",
+    "value": "Press E to trade"
+  },
+  {
+    "key": "interact_soldier_npc",
+    "value": "Press E to talk"
+  },
+  {
+    "key": "main_exit",
+    "value": "Exit"
+  },
+  {
+    "key": "newgame_prompt",
+    "value": "What is your name, hero?"
+  },
+  {
+    "key": "newgame_placeholder",
+    "value": "Enter your name..."
+  },
+  {
+    "key": "newgame_start_button",
+    "value": "Start Game"
+  },
+  {
+    "key": "item_hacha_bronce_name",
+    "value": "Bronze Axe"
+  },
+  {
+    "key": "btn_menu_back",
+    "value": "Back"
+  },
+  {
+    "key": "item_hacha_bronce_desc",
+    "value": "Allows chopping trees. Price: 4"
+  },
+  {
+    "key": "interact_crafting_station",
+    "value": "Press I to craft"
+  },
+  {
+    "key": "item_pico_bronce_name",
+    "value": "Bronze Pickaxe"
+  },
+  {
+    "key": "item_pico_bronce_desc",
+    "value": "Allows mining ores. Price: 4"
+  },
+  {
+    "key": "item_mineral_cobre_name",
+    "value": "Copper Ore"
+  },
+  {
+    "key": "item_mineral_cobre_desc",
+    "value": "Used to craft tools and armor. Price: 2"
+  },
+  {
+    "key": "item_madera_name",
+    "value": "Wood"
+  },
+  {
+    "key": "item_madera_desc",
+    "value": "Used to craft tools. Price: 2"
+  },
+  {
+    "key": "item_espada_bronce_name",
+    "value": "Bronze Sword"
+  },
+  {
+    "key": "item_espada_bronce_desc",
+    "value": "Attack: +3 ; 2 Wood + 2 Copper ; Price: 5"
+  },
+  {
+    "key": "item_armadura_bronce_name",
+    "value": "Bronze Armor"
+  },
+  {
+    "key": "item_armadura_bronce_desc",
+    "value": "Health: +3 ; 2 Wood + 2 Copper ; Price: 5"
+  },
+  {
+    "key": "item_casco_cuero_name",
+    "value": "Leather Helmet"
+  },
+  {
+    "key": "item_casco_cuero_desc",
+    "value": "Health: +1 ; 4 Copper ; Price: 3"
+  },
+  {
+    "key": "item_botas_bronce_name",
+    "value": "Bronze Boots"
+  },
+  {
+    "key": "item_botas_bronce_desc",
+    "value": "Speed: +1 ; 4 Copper ; Price: 4"
+  },
+  {
+    "key": "item_guantes_bronce_name",
+    "value": "Bronze Gloves"
+  },
+  {
+    "key": "item_guantes_bronce_desc",
+    "value": "Speed: +1 ; 4 Copper ; Price: 4"
+  },
+  {
+    "key": "item_pocion_vida_pequena_name",
+    "value": "Small Health Potion"
+  },
+  {
+    "key": "item_pocion_vida_pequena_desc",
+    "value": "Health +10"
+  },
+  {
+    "key": "item_pocion_stamina_pequena_name",
+    "value": "Small Stamina Potion"
+  },
+  {
+    "key": "item_pocion_stamina_pequena_desc",
+    "value": "Stamina +10"
+  },
+  {
+    "key": "quest_01_title",
+    "value": "Craft a bronze sword."
+  },
+  {
+    "key": "quest_01_desc",
+    "value": "Welcome Eldric, as the guard told us, keep moving until you reach the dirt road. At the end you'll find materials and a crafting table. Craft the sword using 2 wood and 2 copper."
+  },
+  {
+    "key": "quest_02_title",
+    "value": "Defeat 3 enemies."
+  },
+  {
+    "key": "quest_02_desc",
+    "value": "Use your sword to defeat 3 enemies."
+  },
+  {
+    "key": "quest_03_title",
+    "value": "Reach the village."
+  },
+  {
+    "key": "quest_03_desc",
+    "value": "Head north, climb the starting path and reach the village. Talk to the manager."
+  },
+  {
+    "key": "quest_04_title",
+    "value": "Buy potions from the merchant."
+  },
+  {
+    "key": "quest_04_desc",
+    "value": "In the village you'll find a merchant. At the end of the list you’ll see the potions."
+  },
+  {
+    "key": "stats_title",
+    "value": "Stats."
+  },
+  {
+    "key": "stats_health",
+    "value": "Health"
+  },
+  {
+    "key": "stats_stamina",
+    "value": "Stamina"
+  },
+  {
+    "key": "stats_attack",
+    "value": "Attack"
+  },
+  {
+    "key": "stats_running",
+    "value": "Running"
+  },
+  {
+    "key": "stats_chopping",
+    "value": "Chopping"
+  },
+  {
+    "key": "stats_mining",
+    "value": "Mining"
+  },
+  {
+    "key": "stats_speed",
+    "value": "Movement speed"
+  },
+  {
+    "key": "stats_attack_points",
+    "value": "Attack points"
+  },
+  {
+    "key": "stats_speed_multiplier",
+    "value": "Speed multiplier"
+  },
+  {
+    "key": "pause_save_game",
+    "value": "Save Game"
+  },
+  {
+    "key": "pause_settings",
+    "value": "Settings"
+  },
+  {
+    "key": "pause_exit",
+    "value": "Exit"
+  },
+  {
+    "key": "settings_sound",
+    "value": "Sound"
+  },
+  {
+    "key": "settings_music",
+    "value": "Music"
+  },
+  {
+    "key": "settings_language",
+    "value": "Language"
+  },
+  {
+    "key": "gameover_text",
+    "value": "You have died..."
+  },
+  {
+    "key": "gameover_load_game",
+    "value": "Load Game"
+  },
+  {
+    "key": "gameover_exit",
+    "value": "Exit"
+  },
+  {
+    "key": "verify_start_button",
+    "value": "Verify"
+  },
+
+
+
+  {
+    "key": "mission_m1_title",
+    "value": "Craft a bronze sword."
+  },
+  {
+    "key": "mission_m1_desc",
+    "value": "Welcome Eldric. As the guard said, continue forward until you reach the dirt path. At the end of it, you'll find materials and a crafting table. Craft the sword using two units of wood and two units of copper."
+  },
+  {
+    "key": "mission_m2_title",
+    "value": "Defeat 2 enemies."
+  },
+  {
+    "key": "mission_m2_desc",
+    "value": "Use your sword to defeat 2 enemy (Chase orc)."
+  },
+  {
+    "key": "mission_m3_title",
+    "value": "Buy a potion."
+  },
+  {
+    "key": "mission_m3_desc",
+    "value": "Head north along the initial path, reach the village and talk to the merchant."
+  },
+  {
+    "key": "mission_m4_title",
+    "value": "Explore the world."
+  },
+  {
+    "key": "mission_m4_desc",
+    "value": "Explore the world."
+  },
+
+
+
+  { "key": "npc_guard_line1", "value": "But... Lad!" },
+  { "key": "npc_guard_line2", "value": "Can I ask what happened to you? You look like a herd of bison ran over you..." },
+  { "key": "npc_guard_line3", "value": "Take the path to the right, at the end you'll find some tools and a crafting table." },
+  { "key": "npc_guard_line4", "value": "Good luck, traveler! I hope you make it through this! (Press J)" },
+  { "key": "interact_soldier_npc", "value": "Press E to talk" }
+
+]

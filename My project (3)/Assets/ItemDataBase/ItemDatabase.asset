@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a40c0eb0f8aae41b71627fd6c6d05b, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  allItems:
+  - itemName: Hacha de Bronce
+    description: "Permite talar \xE1rboles. Precio: 4"
+    itemType: 7
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 1
+    isPotion: 0
+    price: 4
+    icon: {fileID: 4019938894550893366, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 0
+    materialType: 0
+    itemPrefab: {fileID: 162269518152591963, guid: c0c1bb2f8745b5745b086de8dc6c61e8, type: 3}
+    keyName: item_hacha_bronce_name
+    keyDesc: item_hacha_bronce_desc
+  - itemName: Pico de Bronce
+    description: 'Permite picar menas. Precio: 4'
+    itemType: 6
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 1
+    isAxe: 0
+    isPotion: 0
+    price: 4
+    icon: {fileID: -5295601960115099830, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 0
+    materialType: 0
+    itemPrefab: {fileID: 5079893535833950115, guid: 0ff95fcbb43d300428e8bd14b51cde8c, type: 3}
+    keyName: item_pico_bronce_name
+    keyDesc: item_pico_bronce_desc
+  - itemName: Mineral de Cobre
+    description: 'Sirve para fabricar herramientas y armaduras. Precio: 2'
+    itemType: 9
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 0
+    price: 2
+    icon: {fileID: 649806015, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 1
+    itemPrefab: {fileID: 8779420395054926518, guid: 5180a2964aea8514c9fcfd721b338e45, type: 3}
+    keyName: item_mineral_cobre_name
+    keyDesc: item_mineral_cobre_desc
+  - itemName: Madera
+    description: 'Sirve para fabricar herramientas. Precio: 2'
+    itemType: 9
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 0
+    price: 2
+    icon: {fileID: 8186984722732553089, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 3
+    itemPrefab: {fileID: 8276776000973621764, guid: 9fbba9f638c365f45b8a589dbd9445cb, type: 3}
+    keyName: item_madera_name
+    keyDesc: item_madera_desc
+  - itemName: Espada de Bronce
+    description: 'Ataque: +3 ; 2 Madera + 2 Cobre ; Precio: 5'
+    itemType: 5
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 3
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 1
+    isAxe: 0
+    isPotion: 0
+    price: 5
+    icon: {fileID: 4780656039031210251, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 0
+    itemPrefab: {fileID: 4398675548455003095, guid: 5775c9d9a69f3fb4abe801d5f81af5ab, type: 3}
+    keyName: item_espada_bronce_name
+    keyDesc: item_espada_bronce_desc
+  - itemName: Armadura de Bronce
+    description: 'Vida: +3 ; 2 Madera + 2 Cobre ; Precio: 5'
+    itemType: 1
+    healthBonus: 3
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 0
+    price: 4
+    icon: {fileID: 7886188643833805835, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 0
+    itemPrefab: {fileID: 1445424640963244995, guid: 44c1c7ff4ce376c4db40c2ee56923c4a, type: 3}
+    keyName: item_armadura_bronce_name
+    keyDesc: item_armadura_bronce_desc
+  - itemName: Casco de Cuero
+    description: 'Vida: +1 ; 4 Cobre ; Precio: 3'
+    itemType: 0
+    healthBonus: 1
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 0
+    price: 3
+    icon: {fileID: 5473931882858025403, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 0
+    itemPrefab: {fileID: 8909361846700707553, guid: cf129165e83491344a53e975ec047d37, type: 3}
+    keyName: item_casco_cuero_name
+    keyDesc: item_casco_cuero_desc
+  - itemName: Botas de Bronce
+    description: 'Velocidad: +1 ; 4 Cobre ; Precio: 4'
+    itemType: 3
+    healthBonus: 0
+    speedBonus: 1
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 0
+    price: 4
+    icon: {fileID: 6973641020830872287, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 0
+    itemPrefab: {fileID: 8044271607811772921, guid: 4a443eb23dc87e54bab9ea18a4520a0c, type: 3}
+    keyName: item_botas_bronce_name
+    keyDesc: item_botas_bronce_desc
+  - itemName: Guantes de Bronce
+    description: 'Velocidad: +1 ; 4 Cobre ; Precio: 4'
+    itemType: 4
+    healthBonus: 0
+    speedBonus: 1
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 0
+    price: 4
+    icon: {fileID: 9122420367935869963, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 1
+    materialType: 0
+    itemPrefab: {fileID: 9196102885318511058, guid: d80142ddd6be6dd44893b250dc224367, type: 3}
+    keyName: item_guantes_bronce_name
+    keyDesc: item_guantes_bronce_desc
+  - itemName: "Poci\xF3n de Vida Peque\xF1a"
+    description: Vida +10
+    itemType: 8
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 10
+    plusStamina: 0
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 1
+    price: 4
+    icon: {fileID: -7396186387493794856, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 0
+    materialType: 0
+    itemPrefab: {fileID: 4744507709541886811, guid: 74f46cd7672b064499f8a2e17d7f2be2, type: 3}
+    keyName: item_pocion_vida_pequena_name
+    keyDesc: item_pocion_vida_pequena_desc
+  - itemName: "Poci\xF3n de Stamina Peque\xF1a"
+    description: Stamina +10
+    itemType: 8
+    healthBonus: 0
+    speedBonus: 0
+    attackBonus: 0
+    plusHealth: 0
+    plusStamina: 10
+    isPickaxe: 0
+    isAxe: 0
+    isPotion: 1
+    price: 4
+    icon: {fileID: 2141348588811933328, guid: f37216aa725fcab47ae1f559a5db7df5, type: 3}
+    isCraftingMaterial: 0
+    materialType: 0
+    itemPrefab: {fileID: 7594941378374619925, guid: a93f4d5b864a5dd43bf3af4440900bb4, type: 3}
+    keyName: item_pocion_stamina_pequena_name
+    keyDesc: item_pocion_stamina_pequena_desc

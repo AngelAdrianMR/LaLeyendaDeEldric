@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a499da18fd3d82c4eb6bf6799d3869c5, type: 3}
+  m_Name: MainMissionDatabase
+  m_EditorClassIdentifier: 
+  allMissions:
+  - id: m1
+    missionName: Crea una espada de bronce.
+    description: "Bienvenido Eldric, como bien nos dijo el guardia, sigue avanzando
+      hasta llegar al camino de tierra, al final de este encontraras materiales y
+      una mesa de fabricaci\xF3n, crea la espada con dos unidades de madera y dos
+      unidades de cobre."
+    coinReward: 5
+    requieredItemName: Espada de Bronce
+    requieredCrafting: 1
+    isActive: 0
+    isCompleted: 0
+    nextMissionId: m2
+    keyName: mission_m1_title
+    keyDescription: mission_m1_desc
+  - id: m2
+    missionName: Elimina a 3 enemigos.
+    description: Usa tu espada para eliminar a 3 enemigos.
+    coinReward: 9
+    requieredItemName: 
+    requieredCrafting: 0
+    isActive: 0
+    isCompleted: 0
+    nextMissionId: m3
+    keyName: mission_m2_title
+    keyDescription: mission_m2_desc
+  - id: m3
+    missionName: "Llega hasta el pueblo y compra una poci\xF3n de vida."
+    description: Avanza hacia el norte, subiendo por el camino incial, llega hasta
+      el pueblo y habla con el mercader.
+    coinReward: 15
+    requieredItemName: 
+    requieredCrafting: 0
+    isActive: 0
+    isCompleted: 0
+    nextMissionId: m4
+    keyName: mission_m3_title
+    keyDescription: mission_m3_desc
+  - id: m4
+    missionName: Explora el mundo
+    description: Explora el mundo
+    coinReward: 20
+    requieredItemName: 
+    requieredCrafting: 0
+    isActive: 0
+    isCompleted: 0
+    nextMissionId: m5
+    keyName: mission_m4_title
+    keyDescription: mission_m4_desc

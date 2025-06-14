@@ -1,0 +1,301 @@
+[
+  {
+    "key": "title_game",
+    "value": "La Leyenda de Eldric"
+  },
+  {
+    "key": "main_new_game",
+    "value": "Nueva Partida"
+  },
+  {
+    "key": "main_load_game",
+    "value": "Cargar Partida"
+  },
+  {
+    "key": "main_ranking",
+    "value": "Clasificación"
+  },
+  {
+    "key": "main_exit",
+    "value": "Salir"
+  },
+  {
+    "key": "interact_chop_tree",
+    "value": "Pulsa F para talar"
+  },
+  {
+    "key": "interact_pick_ore",
+    "value": "Pulsa G para picar"
+  },
+  {
+    "key": "interact_merchant_npc",
+    "value": "Pulsa E para comerciar"
+  },
+  {
+    "key": "interact_soldier_npc",
+    "value": "Pulsa E para hablar"
+  },
+  {
+    "key": "newgame_prompt",
+    "value": "¿Cuál es tu nombre, héroe?"
+  },
+  {
+    "key": "newgame_placeholder",
+    "value": "Introduce tu nombre..."
+  },
+  {
+    "key": "newgame_start_button",
+    "value": "Comenzar Partida"
+  },
+  {
+    "key": "item_hacha_bronce_name",
+    "value": "Hacha de Bronce"
+  },
+  {
+    "key": "item_hacha_bronce_desc",
+    "value": "Permite talar árboles. Precio: 4"
+  },
+  {
+    "key": "item_pico_bronce_name",
+    "value": "Pico de Bronce"
+  },
+  {
+    "key": "item_pico_bronce_desc",
+    "value": "Permite picar menas. Precio: 4"
+  },
+  {
+    "key": "item_mineral_cobre_name",
+    "value": "Mineral de Cobre"
+  },
+  {
+    "key": "item_mineral_cobre_desc",
+    "value": "Sirve para fabricar herramientas y armaduras. Precio: 2"
+  },
+  {
+    "key": "item_madera_name",
+    "value": "Madera"
+  },
+  {
+    "key": "item_madera_desc",
+    "value": "Sirve para fabricar herramientas. Precio: 2"
+  },
+  {
+    "key": "item_espada_bronce_name",
+    "value": "Espada de Bronce"
+  },
+  {
+    "key": "item_espada_bronce_desc",
+    "value": "Ataque: +3 ; 2 Madera + 2 Cobre ; Precio: 5"
+  },
+  {
+    "key": "item_armadura_bronce_name",
+    "value": "Armadura de Bronce"
+  },
+  {
+    "key": "item_armadura_bronce_desc",
+    "value": "Vida: +3 ; 2 Madera + 2 Cobre ; Precio: 5"
+  },
+  {
+    "key": "item_casco_cuero_name",
+    "value": "Casco de Cuero"
+  },
+  {
+    "key": "item_casco_cuero_desc",
+    "value": "Vida: +1 ; 4 Cobre ; Precio: 3"
+  },
+  {
+    "key": "item_botas_bronce_name",
+    "value": "Botas de Bronce"
+  },
+  {
+    "key": "item_botas_bronce_desc",
+    "value": "Velocidad: +1 ; 4 Cobre ; Precio: 4"
+  },
+  {
+    "key": "item_guantes_bronce_name",
+    "value": "Guantes de Bronce"
+  },
+  {
+    "key": "item_guantes_bronce_desc",
+    "value": "Velocidad: +1 ; 4 Cobre ; Precio: 4"
+  },
+  {
+    "key": "item_pocion_vida_pequena_name",
+    "value": "Poción de Vida Pequeña"
+  },
+  {
+    "key": "item_pocion_vida_pequena_desc",
+    "value": "Vida +10"
+  },
+  {
+    "key": "item_pocion_stamina_pequena_name",
+    "value": "Poción de Stamina Pequeña"
+  },
+  {
+    "key": "item_pocion_stamina_pequena_desc",
+    "value": "Stamina +10"
+  },
+  {
+    "key": "interact_crafting_station",
+    "value": "Pulsa I para fabricar"
+  },
+  {
+    "key": "btn_menu_back",
+    "value": "Atrás"
+  },
+  {
+    "key": "quest_01_title",
+    "value": "Crea una espada de bronce."
+  },
+  {
+    "key": "quest_01_desc",
+    "value": "Bienvenido Eldric, como bien nos dijo el guardia, sigue avanzando hasta llegar al camino de tierra, al final de este encontrarás materiales y una mesa de fabricación, crea la espada con dos unidades de madera y dos unidades de cobre."
+  },
+  {
+    "key": "quest_02_title",
+    "value": "Elimina a 3 enemigos."
+  },
+  {
+    "key": "quest_02_desc",
+    "value": "Usa tu espada para eliminar a 3 enemigos."
+  },
+  {
+    "key": "quest_03_title",
+    "value": "Llega hasta el pueblo."
+  },
+  {
+    "key": "quest_03_desc",
+    "value": "Avanza hacia el norte, subiendo por el camino inicial, llega hasta el pueblo y habla con el encargado."
+  },
+  {
+    "key": "quest_04_title",
+    "value": "Compra pociones en el mercader."
+  },
+  {
+    "key": "quest_04_desc",
+    "value": "En el pueblo encontrarás un mercader, al final de su lista verás las pociones."
+  },
+  {
+    "key": "stats_title",
+    "value": "Habilidades."
+  },
+  {
+    "key": "stats_health",
+    "value": "Vida"
+  },
+  {
+    "key": "stats_stamina",
+    "value": "Estamina"
+  },
+  {
+    "key": "stats_attack",
+    "value": "Ataque"
+  },
+  {
+    "key": "stats_running",
+    "value": "Carrera"
+  },
+  {
+    "key": "stats_chopping",
+    "value": "Tala"
+  },
+  {
+    "key": "stats_mining",
+    "value": "Minería"
+  },
+  {
+    "key": "stats_speed",
+    "value": "Velocidad de movimiento"
+  },
+  {
+    "key": "stats_attack_points",
+    "value": "Puntos de ataque"
+  },
+  {
+    "key": "stats_speed_multiplier",
+    "value": "Multiplicador de velocidad"
+  },
+  {
+    "key": "pause_save_game",
+    "value": "Guardar partida"
+  },
+  {
+    "key": "pause_settings",
+    "value": "Ajustes"
+  },
+  {
+    "key": "pause_exit",
+    "value": "Salir"
+  },
+  {
+    "key": "settings_sound",
+    "value": "Sonidos"
+  },
+  {
+    "key": "settings_music",
+    "value": "Música"
+  },
+  {
+    "key": "settings_language",
+    "value": "Idioma"
+  },
+  {
+    "key": "gameover_text",
+    "value": "Has muerto..."
+  },
+  {
+    "key": "gameover_load_game",
+    "value": "Cargar partida"
+  },
+  {
+    "key": "gameover_exit",
+    "value": "Salir"
+  },
+  {
+    "key": "verify_start_button",
+    "value": "Verificar"
+  },
+
+
+
+  {
+    "key": "mission_m1_title",
+    "value": "Crea una espada de bronce."
+  },
+  {
+    "key": "mission_m1_desc",
+    "value": "Bienvenido Eldric, como bien nos dijo el guardia, sigue avanzando hasta llegar al camino de tierra, al final de este encontrarás materiales y una mesa de fabricación, crea la espada con dos unidades de madera y dos unidades de cobre."
+  },
+  {
+    "key": "mission_m2_title",
+    "value": "Elimina a 2 enemigos."
+  },
+  {
+    "key": "mission_m2_desc",
+    "value": "Usa tu espada para eliminar a dos enemigos (Orcos persecutores)."
+  },
+  {
+    "key": "mission_m3_title",
+    "value": "Compra una poción."
+  },
+  {
+    "key": "mission_m3_desc",
+    "value": "Avanza hacia el norte, subiendo por el camino inicial, llega hasta el pueblo y habla con el mercader."
+  },
+  {
+    "key": "mission_m4_title",
+    "value": "Explora el mundo."
+  },
+  {
+    "key": "mission_m4_desc",
+    "value": "Explora el mundo."
+  },
+
+
+  { "key": "npc_guard_line1", "value": "Pero... ¡Mozo!" },
+  { "key": "npc_guard_line2", "value": "¿Se puede saber qué te ha ocurrido? Parece que una manada de bisontes te pasó por encima..." },
+  { "key": "npc_guard_line3", "value": "Coge el camino de la derecha, al final de este encontrarás algunas herramientas y una mesa de creación." },
+  { "key": "npc_guard_line4", "value": "Suerte viajero, ¡espero salgas de esta! (Pulsa J)" },
+  { "key": "interact_soldier_npc", "value": "Pulsa E para hablar" }
+
+]

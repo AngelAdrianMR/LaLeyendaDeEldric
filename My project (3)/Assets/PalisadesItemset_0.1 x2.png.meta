@@ -1,0 +1,6563 @@
+fileFormatVersion: 2
+guid: f37216aa725fcab47ae1f559a5db7df5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1277453918698764553
+    second: PalisadesItemset_0.1 x2_0
+  - first:
+      213: 2250424589893317363
+    second: PalisadesItemset_0.1 x2_1
+  - first:
+      213: 7392909377018394645
+    second: PalisadesItemset_0.1 x2_2
+  - first:
+      213: 5748697813896578868
+    second: PalisadesItemset_0.1 x2_3
+  - first:
+      213: -121813088988908423
+    second: PalisadesItemset_0.1 x2_4
+  - first:
+      213: -5451860011220037609
+    second: PalisadesItemset_0.1 x2_5
+  - first:
+      213: 3182708216166290120
+    second: PalisadesItemset_0.1 x2_6
+  - first:
+      213: -4350847874830841339
+    second: PalisadesItemset_0.1 x2_7
+  - first:
+      213: -7690651334339681305
+    second: PalisadesItemset_0.1 x2_8
+  - first:
+      213: -7840544861119802509
+    second: PalisadesItemset_0.1 x2_9
+  - first:
+      213: -8045324236090113560
+    second: PalisadesItemset_0.1 x2_10
+  - first:
+      213: -3259607047501280058
+    second: PalisadesItemset_0.1 x2_11
+  - first:
+      213: -450805137486036198
+    second: PalisadesItemset_0.1 x2_12
+  - first:
+      213: 904275140821307727
+    second: PalisadesItemset_0.1 x2_13
+  - first:
+      213: 2409809917409343975
+    second: PalisadesItemset_0.1 x2_14
+  - first:
+      213: 8371266292772070068
+    second: PalisadesItemset_0.1 x2_15
+  - first:
+      213: -2446212416352921214
+    second: PalisadesItemset_0.1 x2_16
+  - first:
+      213: -2155751706936278477
+    second: PalisadesItemset_0.1 x2_17
+  - first:
+      213: 287521003611920147
+    second: PalisadesItemset_0.1 x2_18
+  - first:
+      213: 33600850640409497
+    second: PalisadesItemset_0.1 x2_19
+  - first:
+      213: -3111770198539528993
+    second: PalisadesItemset_0.1 x2_20
+  - first:
+      213: 4296312192673319010
+    second: PalisadesItemset_0.1 x2_21
+  - first:
+      213: -6050280793101202553
+    second: PalisadesItemset_0.1 x2_22
+  - first:
+      213: -8467828323107603464
+    second: PalisadesItemset_0.1 x2_23
+  - first:
+      213: -4088576574219814256
+    second: PalisadesItemset_0.1 x2_24
+  - first:
+      213: -3249936511876423931
+    second: PalisadesItemset_0.1 x2_25
+  - first:
+      213: -7832563166131469199
+    second: PalisadesItemset_0.1 x2_26
+  - first:
+      213: 917709421888682971
+    second: PalisadesItemset_0.1 x2_27
+  - first:
+      213: -5295601960115099830
+    second: PalisadesItemset_0.1 x2_28
+  - first:
+      213: 5323499581954936093
+    second: PalisadesItemset_0.1 x2_29
+  - first:
+      213: -7475327713549461010
+    second: PalisadesItemset_0.1 x2_30
+  - first:
+      213: -8568227516977901340
+    second: PalisadesItemset_0.1 x2_31
+  - first:
+      213: 4780656039031210251
+    second: PalisadesItemset_0.1 x2_32
+  - first:
+      213: 1521131172795123797
+    second: PalisadesItemset_0.1 x2_33
+  - first:
+      213: -2045761354972438195
+    second: PalisadesItemset_0.1 x2_34
+  - first:
+      213: 7088080025737255575
+    second: PalisadesItemset_0.1 x2_35
+  - first:
+      213: 2078169439745531232
+    second: PalisadesItemset_0.1 x2_36
+  - first:
+      213: 3274733624953549431
+    second: PalisadesItemset_0.1 x2_37
+  - first:
+      213: -8271341690457279403
+    second: PalisadesItemset_0.1 x2_38
+  - first:
+      213: -4119610574920276373
+    second: PalisadesItemset_0.1 x2_39
+  - first:
+      213: 4019938894550893366
+    second: PalisadesItemset_0.1 x2_40
+  - first:
+      213: -6256334624842184679
+    second: PalisadesItemset_0.1 x2_41
+  - first:
+      213: 8392142043936174560
+    second: PalisadesItemset_0.1 x2_42
+  - first:
+      213: -309023172688668527
+    second: PalisadesItemset_0.1 x2_43
+  - first:
+      213: 4120810759333740666
+    second: PalisadesItemset_0.1 x2_44
+  - first:
+      213: -8159658299276204675
+    second: PalisadesItemset_0.1 x2_45
+  - first:
+      213: -8427999936235434487
+    second: PalisadesItemset_0.1 x2_46
+  - first:
+      213: -7932012044111652694
+    second: PalisadesItemset_0.1 x2_47
+  - first:
+      213: -1395340143009625753
+    second: PalisadesItemset_0.1 x2_48
+  - first:
+      213: -203689256180454314
+    second: PalisadesItemset_0.1 x2_49
+  - first:
+      213: 5157499155112349294
+    second: PalisadesItemset_0.1 x2_50
+  - first:
+      213: -3881991871292501460
+    second: PalisadesItemset_0.1 x2_51
+  - first:
+      213: -6681270889703136317
+    second: PalisadesItemset_0.1 x2_52
+  - first:
+      213: -8708708889857290625
+    second: PalisadesItemset_0.1 x2_53
+  - first:
+      213: -2429354532315481643
+    second: PalisadesItemset_0.1 x2_54
+  - first:
+      213: -5207180746785132196
+    second: PalisadesItemset_0.1 x2_55
+  - first:
+      213: 5526156859187025140
+    second: PalisadesItemset_0.1 x2_56
+  - first:
+      213: 2741979943007269177
+    second: PalisadesItemset_0.1 x2_57
+  - first:
+      213: 9134961560310243740
+    second: PalisadesItemset_0.1 x2_58
+  - first:
+      213: 6049785076266507568
+    second: PalisadesItemset_0.1 x2_59
+  - first:
+      213: -1860379888832529397
+    second: PalisadesItemset_0.1 x2_60
+  - first:
+      213: -2674532954586833719
+    second: PalisadesItemset_0.1 x2_61
+  - first:
+      213: 5687604344712977915
+    second: PalisadesItemset_0.1 x2_62
+  - first:
+      213: -4169416573382602958
+    second: PalisadesItemset_0.1 x2_63
+  - first:
+      213: -5877686424186073225
+    second: PalisadesItemset_0.1 x2_64
+  - first:
+      213: -5006858169106935219
+    second: PalisadesItemset_0.1 x2_65
+  - first:
+      213: -7040670245569752122
+    second: PalisadesItemset_0.1 x2_66
+  - first:
+      213: -8996253643196933386
+    second: PalisadesItemset_0.1 x2_67
+  - first:
+      213: -163777044947487555
+    second: PalisadesItemset_0.1 x2_68
+  - first:
+      213: 6108935333380348231
+    second: PalisadesItemset_0.1 x2_69
+  - first:
+      213: 7783071408280709113
+    second: PalisadesItemset_0.1 x2_70
+  - first:
+      213: -8865723335346210587
+    second: PalisadesItemset_0.1 x2_71
+  - first:
+      213: -8952490251515646016
+    second: PalisadesItemset_0.1 x2_72
+  - first:
+      213: -3998568629910475976
+    second: PalisadesItemset_0.1 x2_73
+  - first:
+      213: 8649936252080126068
+    second: PalisadesItemset_0.1 x2_74
+  - first:
+      213: -8678329427352254759
+    second: PalisadesItemset_0.1 x2_75
+  - first:
+      213: -3609896639291027644
+    second: PalisadesItemset_0.1 x2_76
+  - first:
+      213: -189805422213529933
+    second: PalisadesItemset_0.1 x2_77
+  - first:
+      213: 6346265847861488197
+    second: PalisadesItemset_0.1 x2_78
+  - first:
+      213: 289432226709232399
+    second: PalisadesItemset_0.1 x2_79
+  - first:
+      213: 2220343713395432213
+    second: PalisadesItemset_0.1 x2_80
+  - first:
+      213: -4542866370959365569
+    second: PalisadesItemset_0.1 x2_81
+  - first:
+      213: 1671294571302634827
+    second: PalisadesItemset_0.1 x2_82
+  - first:
+      213: 7663164691287987067
+    second: PalisadesItemset_0.1 x2_83
+  - first:
+      213: 6061643669951163418
+    second: PalisadesItemset_0.1 x2_84
+  - first:
+      213: -6776811713579940977
+    second: PalisadesItemset_0.1 x2_85
+  - first:
+      213: 8079876279603681965
+    second: PalisadesItemset_0.1 x2_86
+  - first:
+      213: -2113843423426341431
+    second: PalisadesItemset_0.1 x2_87
+  - first:
+      213: 5473931882858025403
+    second: PalisadesItemset_0.1 x2_88
+  - first:
+      213: 6532755941065359411
+    second: PalisadesItemset_0.1 x2_89
+  - first:
+      213: -590424417768798499
+    second: PalisadesItemset_0.1 x2_90
+  - first:
+      213: 2564049607837951447
+    second: PalisadesItemset_0.1 x2_91
+  - first:
+      213: 1704743879943347437
+    second: PalisadesItemset_0.1 x2_92
+  - first:
+      213: 6637783874364391661
+    second: PalisadesItemset_0.1 x2_93
+  - first:
+      213: -181115326121060886
+    second: PalisadesItemset_0.1 x2_94
+  - first:
+      213: 2017636741849199948
+    second: PalisadesItemset_0.1 x2_95
+  - first:
+      213: -4838981943907745420
+    second: PalisadesItemset_0.1 x2_96
+  - first:
+      213: -3948813933737936464
+    second: PalisadesItemset_0.1 x2_97
+  - first:
+      213: 7289718301056941927
+    second: PalisadesItemset_0.1 x2_98
+  - first:
+      213: 223440483703264134
+    second: PalisadesItemset_0.1 x2_99
+  - first:
+      213: -7407829521969030603
+    second: PalisadesItemset_0.1 x2_100
+  - first:
+      213: -6784010059835489377
+    second: PalisadesItemset_0.1 x2_101
+  - first:
+      213: -114223804280144783
+    second: PalisadesItemset_0.1 x2_102
+  - first:
+      213: -545685048442282297
+    second: PalisadesItemset_0.1 x2_103
+  - first:
+      213: 7886188643833805835
+    second: PalisadesItemset_0.1 x2_104
+  - first:
+      213: 3110530339528998261
+    second: PalisadesItemset_0.1 x2_105
+  - first:
+      213: -2091264283818411907
+    second: PalisadesItemset_0.1 x2_106
+  - first:
+      213: 7784961615225737810
+    second: PalisadesItemset_0.1 x2_107
+  - first:
+      213: -7571837285968920835
+    second: PalisadesItemset_0.1 x2_108
+  - first:
+      213: 7024864457632986543
+    second: PalisadesItemset_0.1 x2_109
+  - first:
+      213: 8933342995342245889
+    second: PalisadesItemset_0.1 x2_110
+  - first:
+      213: -7554740227766688225
+    second: PalisadesItemset_0.1 x2_111
+  - first:
+      213: -297206874071612726
+    second: PalisadesItemset_0.1 x2_112
+  - first:
+      213: -4586223753567005193
+    second: PalisadesItemset_0.1 x2_113
+  - first:
+      213: 8688482461230494076
+    second: PalisadesItemset_0.1 x2_114
+  - first:
+      213: -2272985425094751425
+    second: PalisadesItemset_0.1 x2_115
+  - first:
+      213: -6340997409253277409
+    second: PalisadesItemset_0.1 x2_116
+  - first:
+      213: 2173541159385197273
+    second: PalisadesItemset_0.1 x2_117
+  - first:
+      213: 4175576385742390993
+    second: PalisadesItemset_0.1 x2_118
+  - first:
+      213: -6149837750952974460
+    second: PalisadesItemset_0.1 x2_119
+  - first:
+      213: -7868085837990853899
+    second: PalisadesItemset_0.1 x2_120
+  - first:
+      213: -4798506750031269859
+    second: PalisadesItemset_0.1 x2_121
+  - first:
+      213: 561267994995090899
+    second: PalisadesItemset_0.1 x2_122
+  - first:
+      213: 6016273179010328170
+    second: PalisadesItemset_0.1 x2_123
+  - first:
+      213: 9122420367935869963
+    second: PalisadesItemset_0.1 x2_124
+  - first:
+      213: 666259186253557680
+    second: PalisadesItemset_0.1 x2_125
+  - first:
+      213: -3958566166767815984
+    second: PalisadesItemset_0.1 x2_126
+  - first:
+      213: -8398325865436637079
+    second: PalisadesItemset_0.1 x2_127
+  - first:
+      213: 6973641020830872287
+    second: PalisadesItemset_0.1 x2_128
+  - first:
+      213: -8075193004899043634
+    second: PalisadesItemset_0.1 x2_129
+  - first:
+      213: -2597781907155786466
+    second: PalisadesItemset_0.1 x2_130
+  - first:
+      213: 2757689472508160802
+    second: PalisadesItemset_0.1 x2_131
+  - first:
+      213: -1238568622715839278
+    second: PalisadesItemset_0.1 x2_132
+  - first:
+      213: 310198885543132772
+    second: PalisadesItemset_0.1 x2_133
+  - first:
+      213: 8345956850925757444
+    second: PalisadesItemset_0.1 x2_134
+  - first:
+      213: 9049875349840413370
+    second: PalisadesItemset_0.1 x2_135
+  - first:
+      213: -7514435500113370194
+    second: PalisadesItemset_0.1 x2_136
+  - first:
+      213: -175236082514428632
+    second: PalisadesItemset_0.1 x2_137
+  - first:
+      213: -8926334692379912998
+    second: PalisadesItemset_0.1 x2_138
+  - first:
+      213: 933438544528661600
+    second: PalisadesItemset_0.1 x2_139
+  - first:
+      213: 3720884117943773218
+    second: PalisadesItemset_0.1 x2_140
+  - first:
+      213: -1803378994699692370
+    second: PalisadesItemset_0.1 x2_141
+  - first:
+      213: -2728699629171187187
+    second: PalisadesItemset_0.1 x2_142
+  - first:
+      213: -6796981513273248279
+    second: PalisadesItemset_0.1 x2_143
+  - first:
+      213: 1571600245419302202
+    second: PalisadesItemset_0.1 x2_144
+  - first:
+      213: -4663245413712263037
+    second: PalisadesItemset_0.1 x2_145
+  - first:
+      213: 3674879654938899140
+    second: PalisadesItemset_0.1 x2_146
+  - first:
+      213: 8918034389207424526
+    second: PalisadesItemset_0.1 x2_147
+  - first:
+      213: -8997341792802531970
+    second: PalisadesItemset_0.1 x2_148
+  - first:
+      213: 3532120989711140689
+    second: PalisadesItemset_0.1 x2_149
+  - first:
+      213: -1256043406701645231
+    second: PalisadesItemset_0.1 x2_150
+  - first:
+      213: -8101201017075090284
+    second: PalisadesItemset_0.1 x2_151
+  - first:
+      213: 8322254669797988696
+    second: PalisadesItemset_0.1 x2_152
+  - first:
+      213: -5553409507821963450
+    second: PalisadesItemset_0.1 x2_153
+  - first:
+      213: -2981617698022204042
+    second: PalisadesItemset_0.1 x2_154
+  - first:
+      213: -7040272340289251818
+    second: PalisadesItemset_0.1 x2_155
+  - first:
+      213: -4740955358374281230
+    second: PalisadesItemset_0.1 x2_156
+  - first:
+      213: -6686652128671685258
+    second: PalisadesItemset_0.1 x2_157
+  - first:
+      213: -7499204443668373121
+    second: PalisadesItemset_0.1 x2_158
+  - first:
+      213: 1792579415036270564
+    second: PalisadesItemset_0.1 x2_159
+  - first:
+      213: -7396186387493794856
+    second: PalisadesItemset_0.1 x2_160
+  - first:
+      213: -5165813897818343347
+    second: PalisadesItemset_0.1 x2_161
+  - first:
+      213: -1570443795187481416
+    second: PalisadesItemset_0.1 x2_162
+  - first:
+      213: 3206319980222694113
+    second: PalisadesItemset_0.1 x2_163
+  - first:
+      213: 7122954268497514215
+    second: PalisadesItemset_0.1 x2_164
+  - first:
+      213: 8186984722732553089
+    second: PalisadesItemset_0.1 x2_165
+  - first:
+      213: 7902509963919194537
+    second: PalisadesItemset_0.1 x2_166
+  - first:
+      213: 2877569084159815770
+    second: PalisadesItemset_0.1 x2_167
+  - first:
+      213: -3025210173849608943
+    second: PalisadesItemset_0.1 x2_168
+  - first:
+      213: 382506095293029912
+    second: PalisadesItemset_0.1 x2_169
+  - first:
+      213: -3148872234806758529
+    second: PalisadesItemset_0.1 x2_170
+  - first:
+      213: 4539841184396956471
+    second: PalisadesItemset_0.1 x2_171
+  - first:
+      213: 7504131255657714290
+    second: PalisadesItemset_0.1 x2_172
+  - first:
+      213: -8275435957569744907
+    second: PalisadesItemset_0.1 x2_173
+  - first:
+      213: -9158448419206742325
+    second: PalisadesItemset_0.1 x2_174
+  - first:
+      213: 4324785318646873583
+    second: PalisadesItemset_0.1 x2_175
+  - first:
+      213: -5259273145057667120
+    second: PalisadesItemset_0.1 x2_176
+  - first:
+      213: 6539194401280479794
+    second: PalisadesItemset_0.1 x2_177
+  - first:
+      213: -6444214539262492635
+    second: PalisadesItemset_0.1 x2_178
+  - first:
+      213: -995599691473243527
+    second: PalisadesItemset_0.1 x2_179
+  - first:
+      213: -8730528500466259262
+    second: PalisadesItemset_0.1 x2_180
+  - first:
+      213: 1865192512586623894
+    second: PalisadesItemset_0.1 x2_181
+  - first:
+      213: -8890053092433685562
+    second: PalisadesItemset_0.1 x2_182
+  - first:
+      213: 7382242686291602730
+    second: PalisadesItemset_0.1 x2_183
+  - first:
+      213: 2141348588811933328
+    second: PalisadesItemset_0.1 x2_184
+  - first:
+      213: 8247705803450670979
+    second: PalisadesItemset_0.1 x2_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6870fdd62954ee0800000000000000
+      internalID: -1277453918698764553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f23562cd3d1b3f10800000000000000
+      internalID: 2250424589893317363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f5d9b8e3e89660800000000000000
+      internalID: 7392909377018394645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ce5e243a77cf40800000000000000
+      internalID: 5748697813896578868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b2d514ab3f4ef0800000000000000
+      internalID: -121813088988908423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710921a743a1754b0800000000000000
+      internalID: -5451860011220037609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c21f4882404b2c20800000000000000
+      internalID: 3182708216166290120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac1fcd8eeae93c0800000000000000
+      internalID: -4350847874830841339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ac45bb51554590800000000000000
+      internalID: -7690651334339681305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37390736df9c03390800000000000000
+      internalID: -7840544861119802509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10205bb34495090800000000000000
+      internalID: -8045324236090113560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc835219ac83c2d0800000000000000
+      internalID: -3259607047501280058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13493dad1b6eb9f0800000000000000
+      internalID: -450805137486036198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41ded31371ac8c00800000000000000
+      internalID: 904275140821307727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b5672a5d517120800000000000000
+      internalID: 2409809917409343975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b261e42756bc2470800000000000000
+      internalID: 8371266292772070068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289522694ce4d0ed0800000000000000
+      internalID: -2446212416352921214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3320f148e3b3512e0800000000000000
+      internalID: -2155751706936278477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31790c554da7df300800000000000000
+      internalID: 287521003611920147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993929eabcf577000800000000000000
+      internalID: 33600850640409497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49765cd75c0d4d0800000000000000
+      internalID: -3111770198539528993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26809782d219f9b30800000000000000
+      internalID: 4296312192673319010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b85d7aca5190ca0800000000000000
+      internalID: -6050280793101202553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbfd2e210b3c7a80800000000000000
+      internalID: -8467828323107603464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af4a894457247c0800000000000000
+      internalID: -4088576574219814256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f980b16f7e5e2d0800000000000000
+      internalID: -3249936511876423931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174cce19c452d4390800000000000000
+      internalID: -7832563166131469199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb34b26bdb5cbc00800000000000000
+      internalID: 917709421888682971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a472a77131e3286b0800000000000000
+      internalID: -5295601960115099830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4d582aaed0e940800000000000000
+      internalID: 5323499581954936093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9504eec0d424890800000000000000
+      internalID: -7475327713549461010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e01ecf387a871980800000000000000
+      internalID: -8568227516977901340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0108c7a65d485240800000000000000
+      internalID: 4780656039031210251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580a3b0eb42c1510800000000000000
+      internalID: 1521131172795123797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4165a5f2eefb93e0800000000000000
+      internalID: -2045761354972438195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5c99aa3bed5260800000000000000
+      internalID: 7088080025737255575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dda17481427dc10800000000000000
+      internalID: 2078169439745531232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723261b1e0327d20800000000000000
+      internalID: 3274733624953549431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5543a645e8a463d80800000000000000
+      internalID: -8271341690457279403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662fec320434d6c0800000000000000
+      internalID: -4119610574920276373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6338b744021b9c730800000000000000
+      internalID: 4019938894550893366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9180e426ec80d29a0800000000000000
+      internalID: -6256334624842184679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1bf69b9b0e67470800000000000000
+      internalID: 8392142043936174560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198178ccf0126bbf0800000000000000
+      internalID: -309023172688668527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7002b87d8f003930800000000000000
+      internalID: 4120810759333740666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75e21f220213ce80800000000000000
+      internalID: -8159658299276204675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0ca126bab90b80800000000000000
+      internalID: -8427999936235434487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8da9c4215dbe190800000000000000
+      internalID: -7932012044111652694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76981136881c2ace0800000000000000
+      internalID: -1395340143009625753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cecc063b95c2df0800000000000000
+      internalID: -203689256180454314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e49dde72e139740800000000000000
+      internalID: 5157499155112349294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2218a2f5f4602ac0800000000000000
+      internalID: -3881991871292501460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32613568b5743a0800000000000000
+      internalID: -6681270889703136317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e05c7c763742780800000000000000
+      internalID: -8708708889857290625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9b9d39ce2394ed0800000000000000
+      internalID: -2429354532315481643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517e9a13b06cb7b0800000000000000
+      internalID: -5207180746785132196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f45ee4726ad0bc40800000000000000
+      internalID: 5526156859187025140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b1340b387d0620800000000000000
+      internalID: 2741979943007269177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e327d327e5ce70800000000000000
+      internalID: 9134961560310243740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d1356497725f350800000000000000
+      internalID: 6049785076266507568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3bda095a9e26e0800000000000000
+      internalID: -1860379888832529397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc96c5b27622ead0800000000000000
+      internalID: -2674532954586833719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdd59d640e6eee40800000000000000
+      internalID: 5687604344712977915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f47ee87b14326c0800000000000000
+      internalID: -4169416573382602958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fc049a6534e6ea0800000000000000
+      internalID: -5877686424186073225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d425e9dc501148ab0800000000000000
+      internalID: -5006858169106935219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c31728f6b38a4e90800000000000000
+      internalID: -7040670245569752122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fadee7c9f2e62380800000000000000
+      internalID: -8996253643196933386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ba8535a52abdf0800000000000000
+      internalID: -163777044947487555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d7f5b15c47c450800000000000000
+      internalID: 6108935333380348231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f722189536030c60800000000000000
+      internalID: 7783071408280709113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e83ccf599f96f480800000000000000
+      internalID: -8865723335346210587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf234f6c8d52c380800000000000000
+      internalID: -8952490251515646016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6a24340b3288c0800000000000000
+      internalID: -3998568629910475976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4787203213fba0870800000000000000
+      internalID: 8649936252080126068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d689d69d51609780800000000000000
+      internalID: -8678329427352254759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f8e23f12217edc0800000000000000
+      internalID: -3609896639291027644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef48069fcad5df0800000000000000
+      internalID: -189805422213529933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a2af72a27721850800000000000000
+      internalID: 6346265847861488197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bdd83a315440400800000000000000
+      internalID: 289432226709232399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bd43ce7de30de10800000000000000
+      internalID: 2220343713395432213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a26e0da1f74f0c0800000000000000
+      internalID: -4542866370959365569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b454885ce81a13710800000000000000
+      internalID: 1671294571302634827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73598f7fa7095a60800000000000000
+      internalID: 7663164691287987067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c2f664dc84f1450800000000000000
+      internalID: 6061643669951163418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f838c5ec6ade3f1a0800000000000000
+      internalID: -6776811713579940977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daad1e2daac712070800000000000000
+      internalID: 8079876279603681965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c590e32b9e1aa2e0800000000000000
+      internalID: -2113843423426341431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1107a9b0057fb40800000000000000
+      internalID: 5473931882858025403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33006879ae209aa50800000000000000
+      internalID: 6532755941065359411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68c28ce146ec7f0800000000000000
+      internalID: -590424417768798499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d529ad8885559320800000000000000
+      internalID: 2564049607837951447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec5b05d68778a710800000000000000
+      internalID: 1704743879943347437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de04e47e3452e1c50800000000000000
+      internalID: 6637783874364391661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5dc2b029c8c7df0800000000000000
+      internalID: -181115326121060886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b2b34de5100c10800000000000000
+      internalID: 2017636741849199948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47189de5f8b78dcb0800000000000000
+      internalID: -4838981943907745420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ff6326aef239c0800000000000000
+      internalID: -3948813933737936464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb9271c284a2560800000000000000
+      internalID: 7289718301056941927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6831393afe1d91300800000000000000
+      internalID: 223440483703264134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a52625c4a123990800000000000000
+      internalID: -7407829521969030603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9344d63bca5ad1a0800000000000000
+      internalID: -6784010059835489377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cfcf02e023a6ef0800000000000000
+      internalID: -114223804280144783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1b50f6565d68f0800000000000000
+      internalID: -545685048442282297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cfe6be9ce517d60800000000000000
+      internalID: 7886188643833805835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d73be0dd2da2b20800000000000000
+      internalID: 3110530339528998261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78ba8fb6365af2e0800000000000000
+      internalID: -2091264283818411907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252d491b75db90c60800000000000000
+      internalID: 7784961615225737810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeb3c01b1e6be690800000000000000
+      internalID: -7571837285968920835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa53b7041055d7160800000000000000
+      internalID: 7024864457632986543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10049169f1c99fb70800000000000000
+      internalID: 8933342995342245889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ec912acb282790800000000000000
+      internalID: -7554740227766688225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac248263ceb10ebf0800000000000000
+      internalID: -297206874071612726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f51e248bc57a50c0800000000000000
+      internalID: -4586223753567005193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71fad2d3c0b39870800000000000000
+      internalID: 8688482461230494076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b46957ccbb470e0800000000000000
+      internalID: -2272985425094751425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1149cbc3704008a0800000000000000
+      internalID: -6340997409253277409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da68d52b28f92e10800000000000000
+      internalID: 2173541159385197273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d64fa48990a2f930800000000000000
+      internalID: 4175576385742390993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872924162367aaa0800000000000000
+      internalID: -6149837750952974460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f206440e91fec290800000000000000
+      internalID: -7868085837990853899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d107210d887486db0800000000000000
+      internalID: -4798506750031269859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d56a7984460ac700800000000000000
+      internalID: 561267994995090899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66ee9aa4981e7350800000000000000
+      internalID: 6016273179010328170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b041b92fdf8599e70800000000000000
+      internalID: 9122420367935869963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfebfc23370f3900800000000000000
+      internalID: 666259186253557680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2bce17b095019c0800000000000000
+      internalID: -3958566166767815984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9689ca22f17237b80800000000000000
+      internalID: -8398325865436637079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd277bd7f8957c060800000000000000
+      internalID: 6973641020830872287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f54a0fb62fef80800000000000000
+      internalID: -8075193004899043634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15ea0c7e13d2fbd0800000000000000
+      internalID: -2597781907155786466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22beea1e6f7454620800000000000000
+      internalID: 2757689472508160802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd31d5668bfcee0800000000000000
+      internalID: -1238568622715839278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e358e2e3c0e4400800000000000000
+      internalID: 310198885543132772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404ea22898bc2d370800000000000000
+      internalID: 8345956850925757444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab24dc0bead979d70800000000000000
+      internalID: 9049875349840413370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea36820d9bc57b790800000000000000
+      internalID: -7514435500113370194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d75ed16bf619df0800000000000000
+      internalID: -175236082514428632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4137a14e94f1480800000000000000
+      internalID: -8926334692379912998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd942296d34fc00800000000000000
+      internalID: 933438544528661600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286e64246c33a330800000000000000
+      internalID: 3720884117943773218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61689eb5c19f6e0800000000000000
+      internalID: -1803378994699692370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02e2800526b12ad0800000000000000
+      internalID: -2728699629171187187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5737c53554ca1a0800000000000000
+      internalID: -6796981513273248279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d5225b8127fc510800000000000000
+      internalID: 1571600245419302202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388063fc003d84fb0800000000000000
+      internalID: -4663245413712263037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c271f8639bcff230800000000000000
+      internalID: 3674879654938899140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e1d67f60933cb70800000000000000
+      internalID: 8918034389207424526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e759a353f45032380800000000000000
+      internalID: -8997341792802531970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1570f6f735d940130800000000000000
+      internalID: 3532120989711140689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b3192d23a19ee0800000000000000
+      internalID: -1256043406701645231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cb433d890c29f80800000000000000
+      internalID: -8101201017075090284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85915ab67869e7370800000000000000
+      internalID: 8322254669797988696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647bef1d9735ee2b0800000000000000
+      internalID: -5553409507821963450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d5e5d308a2f96d0800000000000000
+      internalID: -2981617698022204042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161d038b9deb4e90800000000000000
+      internalID: -7040272340289251818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffbd10683eb43eb0800000000000000
+      internalID: -4740955358374281230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6752aedf05d3433a0800000000000000
+      internalID: -6686652128671685258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ad1d7a497de790800000000000000
+      internalID: -7499204443668373121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e71ae00b7580e810800000000000000
+      internalID: 1792579415036270564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db4ad0daa77b5990800000000000000
+      internalID: -7396186387493794856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f2cc21a75f48b0800000000000000
+      internalID: -5165813897818343347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4422850b9a43ae0800000000000000
+      internalID: -1570443795187481416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24961c8032f7c20800000000000000
+      internalID: 3206319980222694113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee852d0b21d9d260800000000000000
+      internalID: 7122954268497514215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18316049a330e9170800000000000000
+      internalID: 8186984722732553089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9736161fa5bad60800000000000000
+      internalID: 7902509963919194537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50fdf506dd2fe720800000000000000
+      internalID: 2877569084159815770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ddbc8006b4406d0800000000000000
+      internalID: -3025210173849608943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81edc5e544fee4500800000000000000
+      internalID: 382506095293029912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73b049c265fc44d0800000000000000
+      internalID: -3148872234806758529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335bac0181c00f30800000000000000
+      internalID: 4539841184396956471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27252615e97042860800000000000000
+      internalID: 7504131255657714290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8f8b77deb72d80800000000000000
+      internalID: -8275435957569744907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb17fafa7a6e080800000000000000
+      internalID: -9158448419206742325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed75c76559b40c30800000000000000
+      internalID: 4324785318646873583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7161c70fe4307b0800000000000000
+      internalID: -5259273145057667120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232db8d69a2efba50800000000000000
+      internalID: 6539194401280479794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200adaf40d8196a0800000000000000
+      internalID: -6444214539262492635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972bf330b5bee22f0800000000000000
+      internalID: -995599691473243527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cae84cc59ee6d680800000000000000
+      internalID: -8730528500466259262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba17e35be72e910800000000000000
+      internalID: 1865192512586623894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3902f50df20a480800000000000000
+      internalID: -8890053092433685562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de2224c9ef27660800000000000000
+      internalID: 7382242686291602730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0965b68323997bd10800000000000000
+      internalID: 2141348588811933328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fda92eabcb57270800000000000000
+      internalID: 8247705803450670979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781098e6b619ab49a076fe816753620
+      internalID: -858641986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91990c6a2294895418382f0401cda62e
+      internalID: -714851486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e1ae0487b67d41bdde8aa82653500
+      internalID: -450212072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f715af15a1eed479800ee065389e5e
+      internalID: 1143371112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e95f933a1c74140aa9a313b8ef8df1
+      internalID: -1390373181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c925ac0776b07419fa97cca6fa18f4
+      internalID: 835287624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a40518463cf6f46ad8f8e99bae073e
+      internalID: -849350548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dcf691cbbc3dd479fe0c0ae53fb652
+      internalID: 1208781043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228be5de0f6635489502fa6ad00e1a1
+      internalID: -361956209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ef013a9d2af9488220f513147cffe
+      internalID: -408388821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3f4cef31db9046aa9b41e6e8e5a82
+      internalID: 1277672976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1756756ed017418fdb0d4694a250a
+      internalID: -1726670089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c0a83ff953374098696e2bf2c50e4
+      internalID: -1764159526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adba1c549f16a8740bdab61f32e3352c
+      internalID: -793839376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f15d8caaef78942920bb8f1bf102e5
+      internalID: 1410120024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdec1f5358ca334d87e41af3d756f72
+      internalID: -1983934639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92e4e2e1188b4488ad1235f22cad8c
+      internalID: -2013662710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb973631580f64d81ff6c5373c3329
+      internalID: 1137005213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a464e84993ba44faba91132ff5562a
+      internalID: -1559329526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc1806724fac24a8fdb238393d90ae
+      internalID: 1877355343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f956a6e5e29ea4e9a5531d480c3e15
+      internalID: 1417354533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c0348850e1fc49b8016ce97d224f9
+      internalID: 1440603882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addd4d1d6b07bf4da24ccb29cf0819a
+      internalID: -1389786432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7412d02ee3c65384c9c75a8a7d2c9102
+      internalID: -401825138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b13343ba28ffd478ca74bd79965b61
+      internalID: 423070821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8dcfd8c3a4fad4b962def4d42fdad4
+      internalID: 1162149319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ceeb07df8860409cd7c391da6039d
+      internalID: -1503580612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af3407a696ca84f94cfe3daff8ecf2
+      internalID: -823826218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31b69e48c67168499a60367df53f9b7
+      internalID: -52418286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5173d968cc83b414e9bcc45cf3d1bbc1
+      internalID: 1890255812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4934a4ac26dbb45a594f2eb01916f9
+      internalID: -932905909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5790b4f0e380f9246bbfeb2d6bf32a9b
+      internalID: -1144264057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532c05b1a689e7e47bd8290ac39a756c
+      internalID: 932034996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f1ac1310bebb4196207ba354b883c
+      internalID: -167458145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb50917f135234282b535c5c453505
+      internalID: -2041549941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4475e403c58d45042ba9d470a5f89fe2
+      internalID: 1334341416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd96e2b70e07849963aa0476c9081e
+      internalID: 327618973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984e717085712445bd0cd222ec58d03
+      internalID: 808017990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.51383656, y: 0.22326827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969de2cb3c4d674cb05af0e4dca674a
+      internalID: 576169158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a26f4db33675479970b801943324d
+      internalID: -951122213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696766c138e69540a9f279b9e45c12e
+      internalID: -694240651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78838d4d52e813c419afc07a65d7efa7
+      internalID: -144044451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6a59abf26c574fa52b31ec29b47f6
+      internalID: -1301459069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65639927a1e644f48b3edf1adc8431ed
+      internalID: 1498157457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1455463e840e074fb87c59e28af7772
+      internalID: -308766717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5316bd41a6dd488181254f6d08b4d
+      internalID: 624791079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd21b1cc8a87a4cade81666a89ec3d
+      internalID: 1648223770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5dfa8ab1365194cb66c883a20c2848
+      internalID: -1101508946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9688ced15a599784a82bceb840f972dc
+      internalID: 91012342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_235
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ac3df02108d24c923ad72fc67fe73
+      internalID: -1632424355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f288631977d028a4a9e3af4593e242a0
+      internalID: 649806015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_237
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f475d08b0d8918d4ba013128c4b329c0
+      internalID: -1924670688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d470680b480944815c1d9abc14dbb
+      internalID: -1281845463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbf467c20ce7c43801dca67a0c64d0
+      internalID: 1658129579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050c1ac46660af4a989fbf3b70b99a0
+      internalID: 2128517047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbbf782f1e270a4699f477afe0f9005
+      internalID: -1571016424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af865eec304a84791bff74b76372d8
+      internalID: 251615307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b578802df03fb45a7e55d28ee28132
+      internalID: 1488468437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d515a8bb1b5f944bbcfb27b68df76c7
+      internalID: 1861224073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a8253247db50e4cab243fefabdc6e0
+      internalID: -356221151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d19ad9be1cc447976f79914b3f850
+      internalID: -1509497651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c897b3608eef5498c3948cc3fe123c
+      internalID: -1026338867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c48decae9cdf8468c45f18a1527ed9
+      internalID: 1405607365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7f11283f8ef9e46a7f9bb474743bbf
+      internalID: 307403626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07755355039579040a129d693839a09e
+      internalID: -1910429661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_251
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c17473c0000b04e80f3bf10f54366e
+      internalID: 271322596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_252
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ea19c8a88ec240a49df7ddc12a94e
+      internalID: 713604109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b4b9f59b0abf41a0393d764796edd
+      internalID: -2123080032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874709f9d92506439cb667f96d65494
+      internalID: 1191473397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalisadesItemset_0.1 x2_255
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c2bfca207661543a6a3919f187d3f8
+      internalID: -863003920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 501f6510c407e374b88c01dbd2aff366
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PalisadesItemset_0.1 x2_0: -1277453918698764553
+      PalisadesItemset_0.1 x2_1: 2250424589893317363
+      PalisadesItemset_0.1 x2_10: -8045324236090113560
+      PalisadesItemset_0.1 x2_100: -7407829521969030603
+      PalisadesItemset_0.1 x2_101: -6784010059835489377
+      PalisadesItemset_0.1 x2_102: -114223804280144783
+      PalisadesItemset_0.1 x2_103: -545685048442282297
+      PalisadesItemset_0.1 x2_104: 7886188643833805835
+      PalisadesItemset_0.1 x2_105: 3110530339528998261
+      PalisadesItemset_0.1 x2_106: -2091264283818411907
+      PalisadesItemset_0.1 x2_107: 7784961615225737810
+      PalisadesItemset_0.1 x2_108: -7571837285968920835
+      PalisadesItemset_0.1 x2_109: 7024864457632986543
+      PalisadesItemset_0.1 x2_11: -3259607047501280058
+      PalisadesItemset_0.1 x2_110: 8933342995342245889
+      PalisadesItemset_0.1 x2_111: -7554740227766688225
+      PalisadesItemset_0.1 x2_112: -297206874071612726
+      PalisadesItemset_0.1 x2_113: -4586223753567005193
+      PalisadesItemset_0.1 x2_114: 8688482461230494076
+      PalisadesItemset_0.1 x2_115: -2272985425094751425
+      PalisadesItemset_0.1 x2_116: -6340997409253277409
+      PalisadesItemset_0.1 x2_117: 2173541159385197273
+      PalisadesItemset_0.1 x2_118: 4175576385742390993
+      PalisadesItemset_0.1 x2_119: -6149837750952974460
+      PalisadesItemset_0.1 x2_12: -450805137486036198
+      PalisadesItemset_0.1 x2_120: -7868085837990853899
+      PalisadesItemset_0.1 x2_121: -4798506750031269859
+      PalisadesItemset_0.1 x2_122: 561267994995090899
+      PalisadesItemset_0.1 x2_123: 6016273179010328170
+      PalisadesItemset_0.1 x2_124: 9122420367935869963
+      PalisadesItemset_0.1 x2_125: 666259186253557680
+      PalisadesItemset_0.1 x2_126: -3958566166767815984
+      PalisadesItemset_0.1 x2_127: -8398325865436637079
+      PalisadesItemset_0.1 x2_128: 6973641020830872287
+      PalisadesItemset_0.1 x2_129: -8075193004899043634
+      PalisadesItemset_0.1 x2_13: 904275140821307727
+      PalisadesItemset_0.1 x2_130: -2597781907155786466
+      PalisadesItemset_0.1 x2_131: 2757689472508160802
+      PalisadesItemset_0.1 x2_132: -1238568622715839278
+      PalisadesItemset_0.1 x2_133: 310198885543132772
+      PalisadesItemset_0.1 x2_134: 8345956850925757444
+      PalisadesItemset_0.1 x2_135: 9049875349840413370
+      PalisadesItemset_0.1 x2_136: -7514435500113370194
+      PalisadesItemset_0.1 x2_137: -175236082514428632
+      PalisadesItemset_0.1 x2_138: -8926334692379912998
+      PalisadesItemset_0.1 x2_139: 933438544528661600
+      PalisadesItemset_0.1 x2_14: 2409809917409343975
+      PalisadesItemset_0.1 x2_140: 3720884117943773218
+      PalisadesItemset_0.1 x2_141: -1803378994699692370
+      PalisadesItemset_0.1 x2_142: -2728699629171187187
+      PalisadesItemset_0.1 x2_143: -6796981513273248279
+      PalisadesItemset_0.1 x2_144: 1571600245419302202
+      PalisadesItemset_0.1 x2_145: -4663245413712263037
+      PalisadesItemset_0.1 x2_146: 3674879654938899140
+      PalisadesItemset_0.1 x2_147: 8918034389207424526
+      PalisadesItemset_0.1 x2_148: -8997341792802531970
+      PalisadesItemset_0.1 x2_149: 3532120989711140689
+      PalisadesItemset_0.1 x2_15: 8371266292772070068
+      PalisadesItemset_0.1 x2_150: -1256043406701645231
+      PalisadesItemset_0.1 x2_151: -8101201017075090284
+      PalisadesItemset_0.1 x2_152: 8322254669797988696
+      PalisadesItemset_0.1 x2_153: -5553409507821963450
+      PalisadesItemset_0.1 x2_154: -2981617698022204042
+      PalisadesItemset_0.1 x2_155: -7040272340289251818
+      PalisadesItemset_0.1 x2_156: -4740955358374281230
+      PalisadesItemset_0.1 x2_157: -6686652128671685258
+      PalisadesItemset_0.1 x2_158: -7499204443668373121
+      PalisadesItemset_0.1 x2_159: 1792579415036270564
+      PalisadesItemset_0.1 x2_16: -2446212416352921214
+      PalisadesItemset_0.1 x2_160: -7396186387493794856
+      PalisadesItemset_0.1 x2_161: -5165813897818343347
+      PalisadesItemset_0.1 x2_162: -1570443795187481416
+      PalisadesItemset_0.1 x2_163: 3206319980222694113
+      PalisadesItemset_0.1 x2_164: 7122954268497514215
+      PalisadesItemset_0.1 x2_165: 8186984722732553089
+      PalisadesItemset_0.1 x2_166: 7902509963919194537
+      PalisadesItemset_0.1 x2_167: 2877569084159815770
+      PalisadesItemset_0.1 x2_168: -3025210173849608943
+      PalisadesItemset_0.1 x2_169: 382506095293029912
+      PalisadesItemset_0.1 x2_17: -2155751706936278477
+      PalisadesItemset_0.1 x2_170: -3148872234806758529
+      PalisadesItemset_0.1 x2_171: 4539841184396956471
+      PalisadesItemset_0.1 x2_172: 7504131255657714290
+      PalisadesItemset_0.1 x2_173: -8275435957569744907
+      PalisadesItemset_0.1 x2_174: -9158448419206742325
+      PalisadesItemset_0.1 x2_175: 4324785318646873583
+      PalisadesItemset_0.1 x2_176: -5259273145057667120
+      PalisadesItemset_0.1 x2_177: 6539194401280479794
+      PalisadesItemset_0.1 x2_178: -6444214539262492635
+      PalisadesItemset_0.1 x2_179: -995599691473243527
+      PalisadesItemset_0.1 x2_18: 287521003611920147
+      PalisadesItemset_0.1 x2_180: -8730528500466259262
+      PalisadesItemset_0.1 x2_181: 1865192512586623894
+      PalisadesItemset_0.1 x2_182: -8890053092433685562
+      PalisadesItemset_0.1 x2_183: 7382242686291602730
+      PalisadesItemset_0.1 x2_184: 2141348588811933328
+      PalisadesItemset_0.1 x2_185: 8247705803450670979
+      PalisadesItemset_0.1 x2_186: -858641986
+      PalisadesItemset_0.1 x2_187: -714851486
+      PalisadesItemset_0.1 x2_188: -450212072
+      PalisadesItemset_0.1 x2_189: 1143371112
+      PalisadesItemset_0.1 x2_19: 33600850640409497
+      PalisadesItemset_0.1 x2_190: -1390373181
+      PalisadesItemset_0.1 x2_191: 835287624
+      PalisadesItemset_0.1 x2_192: -849350548
+      PalisadesItemset_0.1 x2_193: 1208781043
+      PalisadesItemset_0.1 x2_194: -361956209
+      PalisadesItemset_0.1 x2_195: -408388821
+      PalisadesItemset_0.1 x2_196: 1277672976
+      PalisadesItemset_0.1 x2_197: -1726670089
+      PalisadesItemset_0.1 x2_198: -1764159526
+      PalisadesItemset_0.1 x2_199: -793839376
+      PalisadesItemset_0.1 x2_2: 7392909377018394645
+      PalisadesItemset_0.1 x2_20: -3111770198539528993
+      PalisadesItemset_0.1 x2_200: 1410120024
+      PalisadesItemset_0.1 x2_201: -1983934639
+      PalisadesItemset_0.1 x2_202: -2013662710
+      PalisadesItemset_0.1 x2_203: 1137005213
+      PalisadesItemset_0.1 x2_204: -1559329526
+      PalisadesItemset_0.1 x2_205: 1877355343
+      PalisadesItemset_0.1 x2_206: 1417354533
+      PalisadesItemset_0.1 x2_207: 1440603882
+      PalisadesItemset_0.1 x2_208: -1389786432
+      PalisadesItemset_0.1 x2_209: -401825138
+      PalisadesItemset_0.1 x2_21: 4296312192673319010
+      PalisadesItemset_0.1 x2_210: 423070821
+      PalisadesItemset_0.1 x2_211: 1162149319
+      PalisadesItemset_0.1 x2_212: -1503580612
+      PalisadesItemset_0.1 x2_213: -823826218
+      PalisadesItemset_0.1 x2_214: -52418286
+      PalisadesItemset_0.1 x2_215: 1890255812
+      PalisadesItemset_0.1 x2_216: -932905909
+      PalisadesItemset_0.1 x2_217: -1144264057
+      PalisadesItemset_0.1 x2_218: 932034996
+      PalisadesItemset_0.1 x2_219: -167458145
+      PalisadesItemset_0.1 x2_22: -6050280793101202553
+      PalisadesItemset_0.1 x2_220: -2041549941
+      PalisadesItemset_0.1 x2_221: 1334341416
+      PalisadesItemset_0.1 x2_222: 327618973
+      PalisadesItemset_0.1 x2_223: 808017990
+      PalisadesItemset_0.1 x2_224: 576169158
+      PalisadesItemset_0.1 x2_225: -951122213
+      PalisadesItemset_0.1 x2_226: -694240651
+      PalisadesItemset_0.1 x2_227: -144044451
+      PalisadesItemset_0.1 x2_228: -1301459069
+      PalisadesItemset_0.1 x2_229: 1498157457
+      PalisadesItemset_0.1 x2_23: -8467828323107603464
+      PalisadesItemset_0.1 x2_230: -308766717
+      PalisadesItemset_0.1 x2_231: 624791079
+      PalisadesItemset_0.1 x2_232: 1648223770
+      PalisadesItemset_0.1 x2_233: -1101508946
+      PalisadesItemset_0.1 x2_234: 91012342
+      PalisadesItemset_0.1 x2_235: -1632424355
+      PalisadesItemset_0.1 x2_236: 649806015
+      PalisadesItemset_0.1 x2_237: -1924670688
+      PalisadesItemset_0.1 x2_238: -1281845463
+      PalisadesItemset_0.1 x2_239: 1658129579
+      PalisadesItemset_0.1 x2_24: -4088576574219814256
+      PalisadesItemset_0.1 x2_240: 2128517047
+      PalisadesItemset_0.1 x2_241: -1571016424
+      PalisadesItemset_0.1 x2_242: 251615307
+      PalisadesItemset_0.1 x2_243: 1488468437
+      PalisadesItemset_0.1 x2_244: 1861224073
+      PalisadesItemset_0.1 x2_245: -356221151
+      PalisadesItemset_0.1 x2_246: -1509497651
+      PalisadesItemset_0.1 x2_247: -1026338867
+      PalisadesItemset_0.1 x2_248: 1405607365
+      PalisadesItemset_0.1 x2_249: 307403626
+      PalisadesItemset_0.1 x2_25: -3249936511876423931
+      PalisadesItemset_0.1 x2_250: -1910429661
+      PalisadesItemset_0.1 x2_251: 271322596
+      PalisadesItemset_0.1 x2_252: 713604109
+      PalisadesItemset_0.1 x2_253: -2123080032
+      PalisadesItemset_0.1 x2_254: 1191473397
+      PalisadesItemset_0.1 x2_255: -863003920
+      PalisadesItemset_0.1 x2_26: -7832563166131469199
+      PalisadesItemset_0.1 x2_27: 917709421888682971
+      PalisadesItemset_0.1 x2_28: -5295601960115099830
+      PalisadesItemset_0.1 x2_29: 5323499581954936093
+      PalisadesItemset_0.1 x2_3: 5748697813896578868
+      PalisadesItemset_0.1 x2_30: -7475327713549461010
+      PalisadesItemset_0.1 x2_31: -8568227516977901340
+      PalisadesItemset_0.1 x2_32: 4780656039031210251
+      PalisadesItemset_0.1 x2_33: 1521131172795123797
+      PalisadesItemset_0.1 x2_34: -2045761354972438195
+      PalisadesItemset_0.1 x2_35: 7088080025737255575
+      PalisadesItemset_0.1 x2_36: 2078169439745531232
+      PalisadesItemset_0.1 x2_37: 3274733624953549431
+      PalisadesItemset_0.1 x2_38: -8271341690457279403
+      PalisadesItemset_0.1 x2_39: -4119610574920276373
+      PalisadesItemset_0.1 x2_4: -121813088988908423
+      PalisadesItemset_0.1 x2_40: 4019938894550893366
+      PalisadesItemset_0.1 x2_41: -6256334624842184679
+      PalisadesItemset_0.1 x2_42: 8392142043936174560
+      PalisadesItemset_0.1 x2_43: -309023172688668527
+      PalisadesItemset_0.1 x2_44: 4120810759333740666
+      PalisadesItemset_0.1 x2_45: -8159658299276204675
+      PalisadesItemset_0.1 x2_46: -8427999936235434487
+      PalisadesItemset_0.1 x2_47: -7932012044111652694
+      PalisadesItemset_0.1 x2_48: -1395340143009625753
+      PalisadesItemset_0.1 x2_49: -203689256180454314
+      PalisadesItemset_0.1 x2_5: -5451860011220037609
+      PalisadesItemset_0.1 x2_50: 5157499155112349294
+      PalisadesItemset_0.1 x2_51: -3881991871292501460
+      PalisadesItemset_0.1 x2_52: -6681270889703136317
+      PalisadesItemset_0.1 x2_53: -8708708889857290625
+      PalisadesItemset_0.1 x2_54: -2429354532315481643
+      PalisadesItemset_0.1 x2_55: -5207180746785132196
+      PalisadesItemset_0.1 x2_56: 5526156859187025140
+      PalisadesItemset_0.1 x2_57: 2741979943007269177
+      PalisadesItemset_0.1 x2_58: 9134961560310243740
+      PalisadesItemset_0.1 x2_59: 6049785076266507568
+      PalisadesItemset_0.1 x2_6: 3182708216166290120
+      PalisadesItemset_0.1 x2_60: -1860379888832529397
+      PalisadesItemset_0.1 x2_61: -2674532954586833719
+      PalisadesItemset_0.1 x2_62: 5687604344712977915
+      PalisadesItemset_0.1 x2_63: -4169416573382602958
+      PalisadesItemset_0.1 x2_64: -5877686424186073225
+      PalisadesItemset_0.1 x2_65: -5006858169106935219
+      PalisadesItemset_0.1 x2_66: -7040670245569752122
+      PalisadesItemset_0.1 x2_67: -8996253643196933386
+      PalisadesItemset_0.1 x2_68: -163777044947487555
+      PalisadesItemset_0.1 x2_69: 6108935333380348231
+      PalisadesItemset_0.1 x2_7: -4350847874830841339
+      PalisadesItemset_0.1 x2_70: 7783071408280709113
+      PalisadesItemset_0.1 x2_71: -8865723335346210587
+      PalisadesItemset_0.1 x2_72: -8952490251515646016
+      PalisadesItemset_0.1 x2_73: -3998568629910475976
+      PalisadesItemset_0.1 x2_74: 8649936252080126068
+      PalisadesItemset_0.1 x2_75: -8678329427352254759
+      PalisadesItemset_0.1 x2_76: -3609896639291027644
+      PalisadesItemset_0.1 x2_77: -189805422213529933
+      PalisadesItemset_0.1 x2_78: 6346265847861488197
+      PalisadesItemset_0.1 x2_79: 289432226709232399
+      PalisadesItemset_0.1 x2_8: -7690651334339681305
+      PalisadesItemset_0.1 x2_80: 2220343713395432213
+      PalisadesItemset_0.1 x2_81: -4542866370959365569
+      PalisadesItemset_0.1 x2_82: 1671294571302634827
+      PalisadesItemset_0.1 x2_83: 7663164691287987067
+      PalisadesItemset_0.1 x2_84: 6061643669951163418
+      PalisadesItemset_0.1 x2_85: -6776811713579940977
+      PalisadesItemset_0.1 x2_86: 8079876279603681965
+      PalisadesItemset_0.1 x2_87: -2113843423426341431
+      PalisadesItemset_0.1 x2_88: 5473931882858025403
+      PalisadesItemset_0.1 x2_89: 6532755941065359411
+      PalisadesItemset_0.1 x2_9: -7840544861119802509
+      PalisadesItemset_0.1 x2_90: -590424417768798499
+      PalisadesItemset_0.1 x2_91: 2564049607837951447
+      PalisadesItemset_0.1 x2_92: 1704743879943347437
+      PalisadesItemset_0.1 x2_93: 6637783874364391661
+      PalisadesItemset_0.1 x2_94: -181115326121060886
+      PalisadesItemset_0.1 x2_95: 2017636741849199948
+      PalisadesItemset_0.1 x2_96: -4838981943907745420
+      PalisadesItemset_0.1 x2_97: -3948813933737936464
+      PalisadesItemset_0.1 x2_98: 7289718301056941927
+      PalisadesItemset_0.1 x2_99: 223440483703264134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
